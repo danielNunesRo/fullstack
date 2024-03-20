@@ -1,0 +1,5 @@
+spring.datasource.url=jdbc:postgresql://localhost:5433/lojinhadb
+spring.datasource.password=dan
+spring.datasource.username=postgres
+
+

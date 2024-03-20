@@ -1,0 +1,15 @@
+version: '3.5'
+services:
+  api-backend:
+    image: app.jar
+    environment:
+      SPRING_PROFILES_ACTIVE: prod
+    depends_on:
+      - db
+    volumes:
+      - ./lojinha/src/main/resources/application-prod.properties:/app/application-prod.properties
+  db:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: 123
+      POSTGRES_DB: lojadb

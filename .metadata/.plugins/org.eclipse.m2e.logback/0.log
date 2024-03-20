@@ -1,0 +1,516 @@
+2024-03-11 18:15:51,109 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-11 18:17:16,794 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lojinha:lojinha:0.0.1-SNAPSHOT @ C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\pom.xml.
+2024-03-11 18:17:17,993 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lojinha/src/main/java
+2024-03-11 18:17:17,994 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lojinha/src/main/resources
+2024-03-11 18:17:18,005 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lojinha/src/main/resources
+2024-03-11 18:17:18,017 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lojinha/src/test/java
+2024-03-11 18:17:19,479 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-03-11 18:17:19,483 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-03-11 18:17:19,761 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lojinha:lojinha:0.0.1-SNAPSHOT @ C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\pom.xml.
+2024-03-11 18:17:20,384 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lojinha/src/main/java
+2024-03-11 18:17:20,384 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lojinha/src/main/resources
+2024-03-11 18:17:20,385 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /lojinha/src/main/resources
+2024-03-11 18:17:20,386 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lojinha/src/test/java
+2024-03-11 18:17:20,862 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2024-03-11 18:17:21,583 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-11 18:17:21,617 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:17:21,624 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:27:34,586 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-11 18:27:34,594 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:27:51,222 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lojinha:lojinha:0.0.1-SNAPSHOT @ C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\pom.xml.
+2024-03-11 18:27:51,675 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:27:51,675 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:27:51,680 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:28:20,271 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-11 18:28:20,285 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:28:46,078 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-11 18:28:46,088 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:28:57,552 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lojinha:lojinha:0.0.1-SNAPSHOT @ C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\pom.xml.
+2024-03-11 18:28:57,950 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:28:57,950 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:28:57,955 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:29:54,161 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-11 18:29:54,176 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:30:07,147 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lojinha:lojinha:0.0.1-SNAPSHOT @ C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\pom.xml.
+2024-03-11 18:30:07,553 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:30:07,554 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:30:07,559 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:30:31,547 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-11 18:30:31,559 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:30:41,354 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lojinha:lojinha:0.0.1-SNAPSHOT @ C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\pom.xml.
+2024-03-11 18:30:41,734 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:30:41,734 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:30:41,738 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:32:26,460 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-03-11 18:32:33,076 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [346])
+2024-03-11 18:32:33,090 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2024-03-11 18:32:33,091 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2024-03-11 18:32:33,091 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2024-03-11 18:32:33,091 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2024-03-11 18:32:33,091 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2024-03-11 18:32:33,091 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2024-03-11 18:32:33,092 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2024-03-11 18:32:33,092 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2024-03-11 18:32:33,092 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2024-03-11 18:32:33,092 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2024-03-11 18:32:33,092 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2024-03-11 18:32:33,092 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2024-03-11 18:32:33,093 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2024-03-11 18:32:33,093 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2024-03-11 18:32:33,093 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2024-03-11 18:32:33,093 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2024-03-11 18:32:33,093 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2024-03-11 18:32:33,093 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2024-03-11 18:32:33,093 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2024-03-11 18:32:33,093 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2024-03-11 18:32:33,094 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2024-03-11 18:32:33,094 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2024-03-11 18:32:33,094 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2024-03-11 18:32:33,094 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2024-03-11 18:32:33,094 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2024-03-11 18:32:33,094 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2024-03-11 18:32:33,094 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-03-11 18:32:33,094 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-03-11 18:32:33,095 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2024-03-11 18:32:33,095 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2024-03-11 18:32:33,095 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2024-03-11 18:32:33,095 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2024-03-11 18:32:33,095 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2024-03-11 18:32:33,095 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2024-03-11 18:32:33,096 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2024-03-11 18:32:33,096 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2024-03-11 18:32:33,096 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2024-03-11 18:32:33,098 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2024-03-11 18:32:33,099 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\com.google.guava_31.1.0.jre.jar
+2024-03-11 18:32:33,099 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [580])
+2024-03-11 18:32:33,100 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\slf4j.api_1.7.36.jar
+2024-03-11 18:32:33,100 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2024-03-11 18:32:33,101 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-03-11 18:32:33,101 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2024-03-11 18:32:33,102 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2024-03-11 18:32:33,102 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2024-03-11 18:32:33,103 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2024-03-11 18:32:33,103 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2024-03-11 18:32:33,104 [Worker-19: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-03-11 18:32:33,107 [Worker-19: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-11 18:32:33,108 [Worker-19: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-03-11 18:32:33,225 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-11 18:32:33,237 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:32:33,240 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:34:22,048 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-11 18:34:22,053 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:34:22,057 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:34:26,231 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-11 18:34:26,238 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:34:26,241 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-11 18:47:26,168 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-11 18:47:26,180 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-11 18:47:26,183 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 12:55:02,233 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-12 12:55:20,900 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 12:55:20,921 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 12:55:20,928 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 12:56:07,370 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 12:56:07,375 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 12:56:07,379 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 12:57:54,229 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 12:57:54,234 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 12:57:54,238 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 12:57:59,219 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 12:57:59,224 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 12:57:59,228 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 12:59:02,070 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 12:59:02,075 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 12:59:02,079 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 12:59:45,264 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 12:59:45,270 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 12:59:45,274 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:00:07,236 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:00:07,242 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:00:07,246 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:00:33,957 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:00:33,963 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:00:33,968 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:02:13,656 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:02:13,661 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:02:13,665 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:07:31,542 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:07:31,547 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:07:31,551 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:08:18,903 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:08:18,908 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:08:18,912 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:09:03,497 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:09:03,502 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:09:03,506 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:13:09,314 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:13:09,320 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:13:09,323 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:20:05,079 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:20:05,084 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:20:05,087 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:22:48,371 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:22:48,377 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:22:48,381 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:23:57,828 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:23:57,833 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:23:57,838 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:24:59,652 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:24:59,657 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:24:59,661 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:25:26,484 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:25:26,489 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:25:26,493 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:26:05,451 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:26:05,456 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:26:05,459 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:26:24,134 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:26:24,139 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:26:24,142 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:26:49,117 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:26:49,127 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:26:49,130 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:27:14,681 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:27:14,687 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:27:14,690 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:28:30,119 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:28:30,124 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:28:30,127 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:31:07,938 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:31:07,943 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:31:07,947 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:32:44,402 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 13:32:44,407 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:32:44,411 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:33:47,853 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-03-12 13:33:47,911 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [346])
+2024-03-12 13:33:47,926 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2024-03-12 13:33:47,926 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2024-03-12 13:33:47,927 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2024-03-12 13:33:47,927 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2024-03-12 13:33:47,927 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2024-03-12 13:33:47,927 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2024-03-12 13:33:47,927 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2024-03-12 13:33:47,928 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2024-03-12 13:33:47,928 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2024-03-12 13:33:47,928 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2024-03-12 13:33:47,928 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2024-03-12 13:33:47,928 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2024-03-12 13:33:47,928 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2024-03-12 13:33:47,928 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2024-03-12 13:33:47,928 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2024-03-12 13:33:47,929 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2024-03-12 13:33:47,929 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2024-03-12 13:33:47,929 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2024-03-12 13:33:47,929 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2024-03-12 13:33:47,929 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2024-03-12 13:33:47,929 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2024-03-12 13:33:47,929 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2024-03-12 13:33:47,929 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2024-03-12 13:33:47,930 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2024-03-12 13:33:47,930 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2024-03-12 13:33:47,930 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2024-03-12 13:33:47,930 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-03-12 13:33:47,930 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-03-12 13:33:47,930 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2024-03-12 13:33:47,930 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2024-03-12 13:33:47,930 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2024-03-12 13:33:47,930 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2024-03-12 13:33:47,931 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2024-03-12 13:33:47,931 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2024-03-12 13:33:47,931 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2024-03-12 13:33:47,931 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2024-03-12 13:33:47,931 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2024-03-12 13:33:47,933 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2024-03-12 13:33:47,934 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\com.google.guava_31.1.0.jre.jar
+2024-03-12 13:33:47,934 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [580])
+2024-03-12 13:33:47,935 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\slf4j.api_1.7.36.jar
+2024-03-12 13:33:47,935 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2024-03-12 13:33:47,936 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-03-12 13:33:47,936 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2024-03-12 13:33:47,938 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2024-03-12 13:33:47,938 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2024-03-12 13:33:47,940 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2024-03-12 13:33:47,940 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2024-03-12 13:33:47,942 [Worker-1: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-03-12 13:33:47,946 [Worker-1: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-12 13:33:47,947 [Worker-1: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-03-12 13:35:49,873 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:35:49,873 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:35:49,877 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 13:40:07,608 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:40:07,608 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 13:40:07,611 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 14:30:38,052 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 14:30:38,064 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 14:30:38,069 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 15:01:26,843 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 15:01:26,848 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 15:01:26,852 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 15:02:13,047 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 15:02:13,052 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 15:02:13,055 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 15:02:41,181 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 15:02:41,189 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 15:02:41,192 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 15:11:38,899 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 15:11:38,915 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 15:11:38,919 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 15:12:19,105 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 15:12:19,105 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 15:12:19,108 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 15:12:25,372 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-03-12 15:12:25,418 [Worker-65: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-12 15:12:25,419 [Worker-65: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-03-12 15:15:13,314 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 15:15:13,315 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 15:15:13,317 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 15:36:39,060 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 15:36:39,068 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 15:36:39,072 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 15:36:44,949 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 15:36:44,960 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 15:36:44,967 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 15:59:35,961 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-03-12 15:59:36,011 [Worker-74: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-12 15:59:36,011 [Worker-74: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-03-12 17:47:48,277 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-12 18:24:11,396 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 18:24:11,422 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 18:24:11,427 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 18:24:50,552 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 18:24:50,558 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 18:24:50,562 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 19:59:48,751 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-12 20:58:37,520 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 20:58:37,579 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 20:58:37,587 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 21:02:07,068 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 21:02:07,069 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 21:02:07,072 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 21:04:33,136 [Worker-27: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 21:04:33,148 [Worker-27: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 21:04:33,152 [Worker-27: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 21:05:01,319 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-12 21:05:01,324 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 21:05:01,328 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 21:07:13,989 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 21:07:13,990 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 21:07:13,993 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-12 21:08:59,940 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 21:08:59,941 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-12 21:08:59,945 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:09:46,916 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-13 09:10:30,331 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-13 09:10:30,377 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:10:30,387 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:11:16,872 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:11:16,873 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:11:16,877 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:12:16,401 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:12:16,402 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:12:16,405 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:12:52,922 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:12:52,922 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:12:52,926 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:15:47,440 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:15:47,441 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:15:47,444 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:17:28,577 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:17:28,578 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:17:28,581 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:20:06,295 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:20:06,295 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:20:06,298 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:20:57,154 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-13 09:20:57,167 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:20:57,174 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:21:03,255 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-13 09:21:03,264 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:21:03,267 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:22:07,813 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-13 09:22:07,815 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:22:07,818 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:22:19,511 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-13 09:22:19,516 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:22:19,519 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:23:27,861 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-03-13 09:23:28,021 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [346])
+2024-03-13 09:23:28,036 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2024-03-13 09:23:28,036 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2024-03-13 09:23:28,036 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2024-03-13 09:23:28,036 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2024-03-13 09:23:28,037 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2024-03-13 09:23:28,037 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2024-03-13 09:23:28,037 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2024-03-13 09:23:28,037 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2024-03-13 09:23:28,037 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2024-03-13 09:23:28,038 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2024-03-13 09:23:28,038 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2024-03-13 09:23:28,038 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2024-03-13 09:23:28,038 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2024-03-13 09:23:28,038 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2024-03-13 09:23:28,038 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2024-03-13 09:23:28,038 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2024-03-13 09:23:28,039 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2024-03-13 09:23:28,039 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2024-03-13 09:23:28,039 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2024-03-13 09:23:28,039 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2024-03-13 09:23:28,039 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2024-03-13 09:23:28,039 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2024-03-13 09:23:28,039 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2024-03-13 09:23:28,039 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2024-03-13 09:23:28,039 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2024-03-13 09:23:28,040 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2024-03-13 09:23:28,040 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-03-13 09:23:28,040 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-03-13 09:23:28,040 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2024-03-13 09:23:28,040 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2024-03-13 09:23:28,040 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2024-03-13 09:23:28,040 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2024-03-13 09:23:28,041 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2024-03-13 09:23:28,041 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2024-03-13 09:23:28,041 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2024-03-13 09:23:28,041 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2024-03-13 09:23:28,041 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2024-03-13 09:23:28,043 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2024-03-13 09:23:28,044 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\com.google.guava_31.1.0.jre.jar
+2024-03-13 09:23:28,045 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [580])
+2024-03-13 09:23:28,045 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\slf4j.api_1.7.36.jar
+2024-03-13 09:23:28,045 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2024-03-13 09:23:28,185 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-03-13 09:23:28,185 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2024-03-13 09:23:28,379 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2024-03-13 09:23:28,379 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2024-03-13 09:23:28,389 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2024-03-13 09:23:28,390 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2024-03-13 09:23:28,391 [Worker-16: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-03-13 09:23:28,395 [Worker-16: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-13 09:23:28,396 [Worker-16: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-03-13 09:25:05,330 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:25:05,330 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:25:05,333 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:25:33,552 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-03-13 09:25:33,605 [Worker-19: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-13 09:25:33,605 [Worker-19: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-03-13 09:28:15,406 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:28:15,407 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:28:15,410 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:30:34,594 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:30:34,594 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:30:34,597 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:32:34,618 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:32:34,619 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:32:34,622 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:34:17,904 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-03-13 09:34:17,985 [Worker-25: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-13 09:34:17,985 [Worker-25: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-03-13 09:35:45,645 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-13 09:35:45,650 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:35:45,653 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:36:59,639 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-13 09:36:59,645 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:36:59,647 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:41:20,674 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:41:20,675 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:41:20,677 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:41:48,913 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:41:48,913 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:41:48,915 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:42:10,028 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:42:10,029 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:42:10,032 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:50:54,478 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:50:54,478 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 09:50:54,481 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-13 09:50:59,399 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-03-13 09:50:59,479 [Worker-35: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-13 09:50:59,479 [Worker-35: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-03-13 10:06:49,822 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-03-13 10:06:49,828 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-13 10:06:49,832 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-20 16:50:15,429 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-20 16:50:24,026 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-20 16:50:24,075 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 16:50:24,083 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-20 16:56:55,146 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.lojinha:lojinha:0.0.1-SNAPSHOT @ C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\pom.xml.
+2024-03-20 16:56:58,914 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 16:56:58,914 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 16:56:58,918 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-20 16:57:40,534 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-20 16:57:40,554 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 16:57:40,568 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-20 16:58:23,404 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-20 16:58:23,413 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 16:58:23,416 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-20 16:58:30,596 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-03-20 16:58:30,654 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [346])
+2024-03-20 16:58:30,667 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2024-03-20 16:58:30,667 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2024-03-20 16:58:30,667 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2024-03-20 16:58:30,667 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2024-03-20 16:58:30,668 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2024-03-20 16:58:30,668 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2024-03-20 16:58:30,668 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2024-03-20 16:58:30,668 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2024-03-20 16:58:30,668 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2024-03-20 16:58:30,668 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2024-03-20 16:58:30,669 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2024-03-20 16:58:30,669 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2024-03-20 16:58:30,669 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2024-03-20 16:58:30,669 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2024-03-20 16:58:30,669 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2024-03-20 16:58:30,669 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2024-03-20 16:58:30,669 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2024-03-20 16:58:30,670 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2024-03-20 16:58:30,670 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2024-03-20 16:58:30,670 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2024-03-20 16:58:30,670 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2024-03-20 16:58:30,670 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2024-03-20 16:58:30,670 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2024-03-20 16:58:30,670 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2024-03-20 16:58:30,670 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2024-03-20 16:58:30,671 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2024-03-20 16:58:30,671 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-03-20 16:58:30,671 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-03-20 16:58:30,671 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2024-03-20 16:58:30,671 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2024-03-20 16:58:30,671 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2024-03-20 16:58:30,671 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2024-03-20 16:58:30,671 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2024-03-20 16:58:30,672 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2024-03-20 16:58:30,672 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2024-03-20 16:58:30,672 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2024-03-20 16:58:30,672 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2024-03-20 16:58:30,673 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [23])
+2024-03-20 16:58:30,674 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\com.google.guava_31.1.0.jre.jar
+2024-03-20 16:58:30,675 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [580])
+2024-03-20 16:58:30,675 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\slf4j.api_1.7.36.jar
+2024-03-20 16:58:30,676 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [50])
+2024-03-20 16:58:30,677 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-03-20 16:58:30,677 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [48])
+2024-03-20 16:58:30,865 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2024-03-20 16:58:30,865 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [73])
+2024-03-20 16:58:30,877 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2024-03-20 16:58:30,877 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [25])
+2024-03-20 16:58:30,879 [Worker-21: Launching lojinha] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Daniel\Downloads\sts-4.18.1.RELEASE\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-03-20 16:58:30,883 [Worker-21: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-20 16:58:30,884 [Worker-21: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-03-20 17:08:33,706 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 17:08:33,707 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 17:08:33,712 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-20 17:11:06,199 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 17:11:06,199 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 17:11:06,203 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-20 17:11:22,678 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-03-20 17:11:22,783 [Worker-8: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-20 17:11:22,784 [Worker-8: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-03-20 17:19:59,312 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-20 17:19:59,325 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 17:19:59,328 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha\src\test\resources
+2024-03-20 17:20:03,282 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-03-20 17:20:03,374 [Worker-24: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-20 17:20:03,374 [Worker-24: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package
+2024-03-20 17:21:42,580 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2024-03-20 17:21:42,631 [Worker-34: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Daniel\ProjetosSpring\unifor\trabalhonuvem\lojinha":
+2024-03-20 17:21:42,631 [Worker-34: Launching lojinha] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean package

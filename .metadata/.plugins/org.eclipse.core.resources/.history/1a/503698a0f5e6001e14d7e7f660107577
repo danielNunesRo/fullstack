@@ -1,0 +1,16 @@
+version: '3.5'
+services:
+  api-backend:
+    image: app.jar
+    environment:
+      spring.profiles.active: prod
+    depends_on:
+      - db
+    ports:
+      - "8080:8080"
+  db:
+    image: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123
+      POSTGRES_DB: lojadb

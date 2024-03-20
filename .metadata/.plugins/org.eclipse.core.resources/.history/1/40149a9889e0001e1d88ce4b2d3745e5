@@ -1,0 +1,5 @@
+package com.lojinha.repositories;
+
+public class ProdutoRepository {
+
+}

@@ -1,0 +1,9 @@
+version: '3.5'
+services:
+  api-backend:
+    image: app.jar
+  db:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: 123
+      POSTGRES_DB: lojadb

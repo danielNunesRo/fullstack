@@ -1,0 +1,5 @@
+package com.lojinha.config;
+
+public class CorsConfiguration {
+
+}

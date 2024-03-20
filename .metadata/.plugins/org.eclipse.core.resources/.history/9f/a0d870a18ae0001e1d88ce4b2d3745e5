@@ -1,0 +1,21 @@
+package com.lojinha.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.lojinha.entities.Produto;
+import com.lojinha.repositories.ProdutoRepository;
+
+@Service
+public class ProdutoService {
+	
+	@Autowired
+	private ProdutoRepository repository;
+	
+	
+	public Produto create(Produto produto) {
+		var newProduto = repository.save(produto);
+		return newProduto;
+	}
+	
+}

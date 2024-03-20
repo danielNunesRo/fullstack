@@ -1,0 +1,8 @@
+spring.datasource.url=jdbc:postgresql://localhost:5440/lojab
+
+spring.datasource.password=123
+spring.datasource.username=postgres
+
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+
